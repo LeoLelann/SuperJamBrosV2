@@ -1,0 +1,2 @@
+#include "SmashCharachterInputData.h"
+
